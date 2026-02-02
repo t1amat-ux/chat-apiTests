@@ -21,7 +21,7 @@
 
 ```bash
 # Клонируйте репозиторий
-git clone <repository-url>
+git clone https://github.com/t1amat-ux/chat-apiTests.git
 cd chat-api
 
 # Запустите приложение
