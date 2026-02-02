@@ -1,0 +1,1 @@
+ALTER DATABASE chat_db SET timezone TO 'UTC';
